@@ -1,0 +1,76 @@
+{
+  "RunTimeMode": {
+    "Value": "gen4_auto"
+  },
+  "Gen4ProxyHost": {
+    "Value": "chromebooks123500-swg.ibosscloud.com"
+  },
+  "Gen4AutoRegisterSecurePort": {
+    "Value": 443
+  },
+  "Gen4AutoRegisterPort": {
+    "Value": 8016
+  },
+  "Gen4AutoLoginEncryptionRegistration": {
+    "Value": 1
+  },
+  "Gen4AutoLoginComputerOverridesUser": {
+    "Value": 0
+  },
+  "Gen4AutoLoginSecurityGroups": {
+    "Value": "Middle"
+  },
+  "WebSecurityKey": {
+    "Value": "29XA3PD233"
+  },
+  "Gen4ProxyAutoConfigurationScriptURL": {
+    "Value": "https://chromebooks123500-swg.ibosscloud.com:7443/ibreports/web/pac/3xAsNwVWpS1JpPL/chromebooks/proxy.pac"
+  },
+  "Gen4ProxyPort": {
+    "Value": 8009
+  },
+  "Gen4ProxyBypass": {
+    "Value": [
+      "_"
+    ]
+  },
+  "Gen4ProxyMonitorInterval": {
+    "Value": 5000
+  },
+  "Gen4AutoLoginRegistrationInterval": {
+    "Value": 3600
+  },
+  "Gen4AutoLoginCaptivePortalDetection": {
+    "Value": 1
+  },
+  "Gen4AutoLoginCaptivePortalDetectionInterval": {
+    "Value": 5000
+  },
+  "ChromeBridgeIP": {
+    "Value": "100.115.92.0"
+  },
+  "IpAddressResolutionInterval": {
+    "Value": 900
+  },
+  "SendCompleteEmail": {
+    "Value": false
+  },
+  "ReloadTabs": {
+    "Value": true
+  },
+  "PACServerPort": {
+    "Value": 9003
+  },
+  "PACFetchInterval": {
+    "Value": 600
+  },
+  "ProxyBypassDomains": {
+    "Value": ""
+  },
+  "CompatibilityAppMode": {
+    "Value": "proxy"
+  },
+  "ProxyAutoConfigurationScriptURL": {
+    "Value": "https://chromebooks123500-swg.ibosscloud.com:7443/ibreports/web/pac/3xAsNwVWpS1JpPL/chromebooks/proxy.pac"
+  }
+}
